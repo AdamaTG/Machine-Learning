@@ -37,14 +37,14 @@ VI) Natural Language Processing
 
 VII) Deep Learning (Using TenserFlow and Keras Libraries)
 * Artificial Neural Network
-*Convolutional Neural Network (Image Classification)
+* Convolutional Neural Network (Image Classification)
 
-VIII) Dimensionality Reduction
-*Principal Component Analyis (PCA) 
-*Linear Discriminant Analysis (LDA)
-*Kernel PCA (for non-linear datasets)
+VIII) Dimensionality Reduction   
+* Principal Component Analyis (PCA) 
+* Linear Discriminant Analysis (LDA)
+* Kernel PCA (for non-linear datasets)
 
-IX) Model Selection and Boosting
+IX) Model Selection and Boosting    
 * Model Selection using K-Fold Cross Validation and grid search
 * Improving model Performance using XGBoost Classifier
 
